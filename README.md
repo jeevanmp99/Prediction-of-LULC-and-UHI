@@ -1,6 +1,6 @@
-# Urban Heat Island Analysis – Greater Kovai
+# Prediction Modelling of LULC Changes and UHI Intensity
 
-This repository presents the results and datasets from my academic research **“Urban Heat Island Analysis in the Greater Kovai Region”**, which examines how land use dynamics influence Land Surface Temperature (LST) and Urban Heat Island (UHI) intensity using Remote Sensing and GIS techniques.
+This repository presents the results and datasets from my academic research **“Prediction Modelling of LULC Changes and UHI Intensity”**, which examines how land use dynamics influence Land Surface Temperature (LST) and Urban Heat Island (UHI) intensity using Remote Sensing and GIS techniques.
 
 Overview
 Rapid urban growth and climate change have intensified local temperature variations in the Greater Kovai area. This study investigates how changes in Land Use/Land Cover (LULC) impact LST patterns and UHI intensity over time, combining spatial data analysis and predictive modeling.
