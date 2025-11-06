@@ -1,2 +1,20 @@
-# Prediction-of-LULC-and-UHI
-This study analyzes how rapid urbanization in Greater Kovai impacts temperature and the Urban Heat Island effect. Using Landsat data, LULC and LST were mapped and predicted with the CA-ANN model for 2028 and 2032. Results show rising built-up areas, higher heat zones, and highlight the need for sustainable urban planning.
+# Urban Heat Island Study – Greater Coimbatore
+
+This repository contains my GIS and Remote Sensing research work on modeling and predicting Urban Heat Island (UHI) intensity and mitigation strategies.
+
+## Contents
+- Thesis-pdf
+- results.pdf
+- Graphs, tables
+- Changes timelapse
+
+## Tools Used
+- QGIS
+- Google Earth Engine
+- ArcMap
+
+
+## Authors
+Jeevan M.P
+Dr. Arun P R (Senior Scientist, Mentor)
+
