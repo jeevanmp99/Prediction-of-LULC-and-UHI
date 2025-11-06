@@ -43,8 +43,9 @@ Final Thesis
 Thesis results
 Data&Graphs
 
-Author
-Jeevan M.P
+Authors
+Jeevan M.P,
+
 Dr. Arun (CWRDM, Senior Scientist, Mentor)
 
 
