@@ -45,8 +45,8 @@ Data&Graphs
 LST and UHI Changes animation
 
 Authors
-Jeevan M.P,
 
+Jeevan M.P,
 Dr. Arun (CWRDM, Senior Scientist, Mentor)
 
 
