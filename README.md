@@ -38,15 +38,10 @@ Data & Tools
 - **Models/Methods:** CA-ANN, Split-Window Algorithm, LULC Classification (Random Forest)  
 - **Data Sources:** Landsat 8/9 imagery (2016 – 2024)
 
-Repository Contents
-Final Thesis
-Thesis results
-Data&Graphs
-LST and UHI Changes animation
-
-Authors
+**Authors**
 
 Jeevan M.P,
+
 Dr. Arun (CWRDM, Senior Scientist, Mentor)
 
 
